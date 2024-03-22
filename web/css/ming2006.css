@@ -1,0 +1,78 @@
+.srch {
+
+	FONT-SIZE: 9pt; HEIGHT: 16px
+
+}
+
+FORM {
+
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+
+}
+
+A {
+
+	COLOR: #333333; TEXT-DECORATION: none
+
+}
+
+A:active {
+
+	COLOR: #cc0033
+
+}
+
+A:link {
+
+	COLOR: #333333; TEXT-DECORATION: none
+
+}
+
+A:visited {
+
+	COLOR: #333333
+
+}
+
+A:hover {
+
+	COLOR: #cc0033; TEXT-DECORATION: underline
+
+}
+
+.honmon {
+
+	FONT-SIZE: 10pt; LINE-HEIGHT: 16pt
+
+}
+
+.pt10 {
+
+	FONT-SIZE: 10pt; LINE-HEIGHT: 1.2; FONT-FAMILY: "ËÎÌו"
+
+}
+
+.px10 {
+
+	FONT-SIZE: 10px; LINE-HEIGHT: 12px
+
+}
+
+CODE {
+
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+
+}
+
+.pt9 {
+
+	FONT-SIZE: 9pt; LINE-HEIGHT: 1.3
+
+}
+
+.submenu {
+
+	FONT-SIZE: 10pt; LINE-HEIGHT: 1.1; FONT-FAMILY: "ËÎÌו"
+
+}
+
